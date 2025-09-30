@@ -24,3 +24,27 @@ body {
     color: darkgreen;
     font-family: 'minecraft';
 }
+
+.again {
+    margin-top: 10px;
+    color: white;
+    font-family: minecraft;
+    border: 5px solid white;
+    padding: 10px;
+    background-color: green;
+}
+
+.again:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.again:active {
+    color:white;
+    text-decoration: none;
+}
+
+.again:hover{
+    text-decoration: none;
+    cursor: pointer;
+}
