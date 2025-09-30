@@ -154,7 +154,7 @@ function main() { setTimeout(function onTick() {
 }
 
 function increaseGameSpeed() {
-    gameSpeed -= 10;
+    gameSpeed -= 15;
 }
 
 main();
